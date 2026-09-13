@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /database/
+
+Sitemap: http://localhost/ICT726_Assignment4_Learn_with_Nazmul_final/sitemap.xml

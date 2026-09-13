@@ -1,0 +1,1 @@
+<?php page_head('Access denied'); site_header(); ?><main><section class="narrow"><div class="card center"><h1>Access denied</h1><p>You do not have permission to view this page.</p><a class="button primary-button" href="<?= e(url('dashboard.php')) ?>">Back to dashboard</a></div></section></main><?php site_footer(); ?>
